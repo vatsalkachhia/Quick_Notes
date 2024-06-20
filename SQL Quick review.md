@@ -1,4 +1,4 @@
-Sure! Here are some SQL interview questions that range from basic to advanced levels. These will help you prepare for an SQL interview:
+Here are some SQL interview questions that range from basic to advanced levels:
 
 ### Basic Level
 
